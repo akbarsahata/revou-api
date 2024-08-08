@@ -1,0 +1,7 @@
+{
+    // Set the indentation to use spaces
+    "editor.insertSpaces": true,
+
+    // Set the number of spaces for indentation to 2
+    "editor.tabSize": 2
+}
